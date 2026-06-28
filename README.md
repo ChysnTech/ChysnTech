@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm ChysnTech
 
-<!--
-**ChysnTech/ChysnTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Workplace :: Debian Testing · KDE Plasma  
+📖 Learning :: C++ · MySQL · Qt6  
+🎮 Gaming :: Minecraft · Genshin Impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 你好，我是 ChysnTech
+
+💻 工作台 :: Debian Testing · KDE Plasma  
+📖 学习中 :: C++ · MySQL · Qt6  
+🎮 游戏盘 :: Minecraft · 原神
