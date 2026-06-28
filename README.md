@@ -13,7 +13,14 @@
 **玩的游戏：** *Minecraft* 、 *原神*
 
 ---
-# Contact Info
-** 邮箱Mail: 3140696291@qq.com / ChysnTech@outlook.com**
-** 电话: +86 18327088142 **
-** Bilibili: https://space.bilibili.com/3707019747919884?spm_id_from=333.788.0.0 **
+
+## 📫 联系方式 / Contact
+
+- **Bilibili** : [https://space.bilibili.com/3707019747919884](https://space.bilibili.com/3707019747919884?spm_id_from=333.788.0.0)
+- **邮箱 / Mail** : 3140696291@qq.com  /  ChysnTech@outlook.com
+- **电话 / Phone** : +86 18327088142
+
+---
+
+> 📌 *Feel free to reach out! I'm open to collaboration and tech discussions.*  
+> 📌 *欢迎交流技术、合作或闲聊！*
