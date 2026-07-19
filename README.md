@@ -1,16 +1,12 @@
 ## 👋 Hi, I'm ChysnTech
 
-**Working Environment:** Debian Testing with KDE Plasma desktop.  
 **Learning:** C++ , MySQL , Qt6  
 **Games I play:** *Minecraft* , *Genshin Impact*
 
 ---
-
 ## 👋 你好，我是 ChysnTech
-
-**工作环境：** Debian Testing + KDE Plasma  
-**学习内容：** C++ 、 MySQL 和 Qt6  
-**玩的游戏：** *Minecraft* 、 *原神*
+**我的学习内容：** C++ 、 MySQL 和 Qt6  
+**我玩的游戏：** *Minecraft* 、 *原神*
 
 ---
 
@@ -20,7 +16,8 @@
 - **邮箱 / Mail** : 3140696291@qq.com  /  ChysnTech@outlook.com
 - **电话 / Phone** : +86 18327088142
 
----
 
-> 📌 *Feel free to reach out! I'm open to collaboration and tech discussions.*  
-> 📌 *欢迎交流技术、合作或闲聊！*
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChysnTech&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChysnTech&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChysnTech&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChysnTech&theme=github_dark)
