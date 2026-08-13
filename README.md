@@ -1,19 +1,13 @@
-## 👋 Hi, I'm ChysnTech
+# ChysnTech
 
-**Learning:** C++ , MySQL , Qt6  
-**Games I play:** *Minecraft* , *Genshin Impact*
+## 学习内容
 
----
-## 👋 你好，我是 ChysnTech
-**我的学习内容：** C++ 、 MySQL 和 Qt6  
-**我玩的游戏：** *Minecraft* 、 *原神*
+- C++
+- MySQL
+- Qt 6
 
----
+## 联系方式
 
-## 📫 联系方式 / Contact
-
-- **Bilibili** : [https://space.bilibili.com/3707019747919884](https://space.bilibili.com/3707019747919884?spm_id_from=333.788.0.0)
-- **邮箱 / Mail** : 3140696291@qq.com  /  ChysnTech@outlook.com
-- **电话 / Phone** : +86 18327088142
-
-
+- QQ: 3140696291
+- Bilibili: [space.bilibili.com/3707019747919884](https://space.bilibili.com/3707019747919884)
+- Email: 3140696291@qq.com
