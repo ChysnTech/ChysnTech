@@ -1,7 +1,7 @@
 # Hello, I'm ChysnTech
 - I'm a GNU/Linux enthusiast.
 - I love C++.I write free software.
-
+- 我是中国人，我爱中国。
 ## The content I study:
 - C++,FXTUI,QT......
 
